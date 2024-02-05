@@ -1,0 +1,8 @@
+ 
+@tailwind utilities;
+
+
+body {
+  font-family: 'Nunito', sans-serif;
+  @apply p-1 m-0;
+}

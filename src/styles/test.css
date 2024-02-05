@@ -1,0 +1,11 @@
+ 
+@tailwind utilities;
+
+
+body {
+  font-family: 'Nunito', sans-serif;
+  @apply p-0 m-0;
+}
+.instructions {
+  @apply text-center;
+}
